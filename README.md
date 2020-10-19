@@ -6,13 +6,13 @@ will be able to add feedback about the movie
 
 Tech Stack
 -----------
-Language             Java
-Framework            Spring Boot
-Api Gateway          Zuul
-Service Discovery    Eureka
-Architecture         Microservice
-Database             Mysql
-containerization     Docker
+Language             -Java
+Framework            -Spring Boot
+Api Gateway          -Zuul
+Service Discovery    -Eureka
+Architecture         -Microservice
+Database             -Mysql
+containerization     -Docker
 
 Note
 ----
